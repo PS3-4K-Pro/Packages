@@ -8,7 +8,7 @@ Apps, Backup Manager, Demos, Emulators, Hombrew Games and Tools for PS3™ 4K Pr
 
  # Credits
  
- All credits go to the respective developers.
+ All credits goes to the respective developers.
 </div>
   
 
